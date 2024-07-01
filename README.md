@@ -1,6 +1,8 @@
 # UnrealScreenRecoder
 The Unreal Screen Recording Plugin is a powerful tool designed to capture and convert screen recordings directly within Unreal Engine using the FFMPEG library. This plugin simplifies the process of recording your game or application screen and converting it to .avi video format.
 
+Can download it from here:
+https://drive.google.com/drive/folders/1rM8hFps4wg-OdjwCA8YiOdKlOtp-5oGi?usp=drive_link
 
 ตัวอัด Video ใช้ FFMPEG 
 {H264_nvenc ใช้ได้แค่ Nvidia Card}
